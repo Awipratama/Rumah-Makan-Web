@@ -2,7 +2,7 @@ import Logo from '../assets/Logo.png';
 
 function Navigation() {
     return (
-        <nav>
+        <nav className='navigation flex justify-center fixed top-0'>
             <ul>
                 <li>
                     <a href="#">Menus</a>
